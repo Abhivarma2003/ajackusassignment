@@ -57,4 +57,5 @@ function applyFilters() {
   const fname = document.getElementById("filterFirstName").value.toLowerCase();
   const dept = document.getElementById("filterDepartment").value.toLowerCase();
   const role = document.getElementById("filterRole").value.toLowerCase();
+  // Filter logic here: you would refresh your UI by injecting filtered results
 }
